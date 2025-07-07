@@ -76,6 +76,8 @@ A comprehensive compilation of my Generative AI experiments, projects, and learn
 | LoRA Fine-tuning | Customizing Mistral | PyTorch, HuggingFace | [Open](finetuning/mistral-lora.ipynb) |
 | SDXL ControlNet | Architecture sketches | Stable Diffusion, ControlNet | [Open](diffusion/sdxl-controlnet.ipynb) |
 
+
+
 ## 🛠️ Technical Stack
 
 ```mermaid
